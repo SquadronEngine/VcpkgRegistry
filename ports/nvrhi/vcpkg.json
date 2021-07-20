@@ -1,0 +1,6 @@
+{
+  "name": "nvrhi",
+  "version": "1.0.0",
+  "description": "NVRHI (NVIDIA Rendering Hardware Interface) is a library that implements a common abstraction layer over multiple graphics APIs.",
+  "homepage": "https://github.com/NVIDIAGameWorks/nvrhi"
+}
